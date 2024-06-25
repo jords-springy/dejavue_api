@@ -58,21 +58,21 @@
             "id":"1",
             "firstName":"Gina",
             "lastName":"Langenhoven",
-            "gender":"F",
+            "gender":"Female",
             "contactDetails":"0826504888"
         },
         {
             "id":"2",
             "firstName":"Zarah",
             "lastName":"Benjamin",
-            "gender":"F",
+            "gender":"Female",
             "contactDetails":"0681256944"
         },
         {
             "id":"3",
             "firstName":"Tatum",
             "lastName":"Borret",
-            "gender":"F",
+            "gender":"Female",
             "contactDetails":"0836041917"
         }
     ]
